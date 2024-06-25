@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Applied and Interdisciplinary Mathematics at <a href='#'>University of Michigan, Ann Arbor</a>. 
+subtitle: Ph.D. Candidate in Applied and Interdisciplinary Mathematics at University of Michigan, Ann Arbor. 
 
 profile:
   align: right
@@ -20,6 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<a href="https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/the-marjorie-lee-browne-scholars-program.html">Marjorie Browne Lee Scholar 2019-2021</a>. Rackham Merit Fellow.
+
+My thesis project with Peter Miller studies solutions to the semiclassical, nonlinear defocusing Schr&ouml;dinger equation by solving a Riemann-Hilbert problem. 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
